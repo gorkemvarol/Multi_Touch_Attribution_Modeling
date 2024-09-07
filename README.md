@@ -20,3 +20,8 @@ First Touch vs. Last Touch: If there's a significant difference between the firs
 Linear vs. Markov: If the Markov model shows significantly different results compared to the linear model, it indicates that the sequence of touchpoints is crucial in driving enrollments.
 
 
+##
+<img width="921" alt="Screenshot 2024-09-06 at 9 36 45 PM" src="https://github.com/user-attachments/assets/0696a471-f16b-479f-9728-f229abb25942">
+
+
+
