@@ -8,3 +8,15 @@ Despite the complexities, some identifiers are more frequently used than others:
 Cookie ID: While facing challenges due to privacy regulations, cookie IDs remain prevalent in many MTA implementations.##
 User ID: Provided by platforms like Google Analytics, user IDs are often used as a foundational identifier.##
 Device ID: Useful for cross-device tracking but has limitations in terms of uniqueness.
+
+##
+Touchpoint Effectiveness:
+
+High-Performing Touchpoints: Identify touchpoints (e.g., alpha, beta) that consistently contribute to a significant number of enrollments across different models. These touchpoints might be particularly effective in driving conversions.
+Low-Performing Touchpoints: Determine touchpoints that have a minimal impact on enrollments. These might be areas where your marketing efforts could be optimized or reallocated.
+Model Differences:
+
+First Touch vs. Last Touch: If there's a significant difference between the first-touch and last-touch models, it suggests that early-stage touchpoints or late-stage touchpoints play a more critical role in the enrollment process.
+Linear vs. Markov: If the Markov model shows significantly different results compared to the linear model, it indicates that the sequence of touchpoints is crucial in driving enrollments.
+
+
